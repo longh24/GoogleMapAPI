@@ -8,5 +8,4 @@ app.config(function($routeProvider) {
 });
 
 app.controller('mainCtrl', function($scope, $http, $routeParams, $firebaseObject, $firebaseAuth) {
-
 });
